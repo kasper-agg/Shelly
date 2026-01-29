@@ -17,6 +17,6 @@ The default out of the box automations provided by Shelly and Home Assistant wor
 for our outdoor lights or to automatically shut power off after a certain time of usage.
 Think deep fryer. You really don't want to accidentally forget to unplug one.
 
-Anyway, I stumbled upon an automation dedire which I could not create without scripting.
+Anyway, I stumbled upon an automation which I could not create without scripting.
 
 So here we are. A repo, a Readme and a script.
